@@ -47,4 +47,3 @@ try:
     del config['api_key']
 except KeyError as e:
     print(f"Error of deleting: {e}")
-\
