@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a7a833-d7b2-4668-89d3-c259bbdf2a69" name="Changes" comment="lesson24, __iter__ and __next__&#10;ErrorLogIterator">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30a7a833-d7b2-4668-89d3-c259bbdf2a69" name="Changes" comment="lesson23, getitem, setitem, delitem&#10;feat AppConfig">
+      <change afterPath="$PROJECT_DIR$/25-30 inherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShakirovTech"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShakirovTech&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShakirovTech/python_practise.git",
-    "accountId": "0ea930d8-ea7e-4569-8781-9ee719f6a3c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShakirovTech/python_practise.git&quot;,
+    &quot;accountId&quot;: &quot;0ea930d8-ea7e-4569-8781-9ee719f6a3c0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3Ji4xoZ8BKSMOLRzsNXf1YgTeAP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.25-30 inherit.executor": "Run",
     "Python.lesson23, getitem, setitem, delitem.executor": "Run",
     "Python.lesson24, __iter__ and __next__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,6 +54,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="25-27 inherit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="E:\Projects\python_practice\25-27 inherit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.25-27 inherit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,6 +101,10 @@
       <option name="presentableId" value="Default" />
       <updated>1790130803272</updated>
       <workItem from="1790130804295" duration="4513000" />
+      <workItem from="1790135967816" duration="172000" />
+      <workItem from="1790216044667" duration="647000" />
+      <workItem from="1790257153895" duration="1682000" />
+      <workItem from="1790307047528" duration="2711000" />
     </task>
     <task id="LOCAL-00001" summary="its 22 lesson OOP: Polymorpism.&#10;feature: alert channels">
       <option name="closed" value="true" />
@@ -97,7 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1790135880705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson23, getitem, setitem, delitem&#10;feat AppConfig">
+      <option name="closed" value="true" />
+      <created>1790136044978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790136044978</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson23, getitem, setitem, delitem&#10;feat AppConfig">
+      <option name="closed" value="true" />
+      <created>1790136058672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790136058672</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson23, getitem, setitem, delitem&#10;feat AppConfig">
+      <option name="closed" value="true" />
+      <created>1790136094370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790136094370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +163,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="its 22 lesson OOP: Polymorpism.&#10;feature: alert channels" />
     <MESSAGE value="lesson24, __iter__ and __next__&#10;ErrorLogIterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson24, __iter__ and __next__&#10;ErrorLogIterator" />
+    <MESSAGE value="lesson23, getitem, setitem, delitem&#10;feat AppConfig" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson23, getitem, setitem, delitem&#10;feat AppConfig" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_practice$lesson23__getitem__setitem__delitem.coverage" NAME="lesson23, getitem, setitem, delitem Coverage Results" MODIFIED="1790133412196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_practice$lesson24____iter___and___next__.coverage" NAME="lesson24, __iter__ and __next__ Coverage Results" MODIFIED="1790135556796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_practice$25_30_inherit.coverage" NAME="25-30 inherit Coverage Results" MODIFIED="1790309777929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
